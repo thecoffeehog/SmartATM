@@ -1,5 +1,5 @@
 # SmartATM
-This program was developed for educational and learnig purposes using JAVA.
+This program was developed for educational and learning purposes using JAVA.
 
 This is a ATM stimulation program with voice assistance for visually disabled (blind).  
 
