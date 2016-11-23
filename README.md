@@ -1,7 +1,7 @@
 # SmartATM
 This program was developed for educational and learning purposes using JAVA.
 
-This is a ATM stimulation program with voice assistance for visually disabled (blind).  
+This is a ATM simulation program with voice assistance for visually disabled (blind).  
 
 This is one of the mini projects developed by me to practice the core java concepts like Exception Handling, Inheritance, 
 Polymorphism, Data hiding etc.
